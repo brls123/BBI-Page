@@ -3,7 +3,7 @@
 **Live site:** https://brls123.github.io/BBI-Page/  
 **中文说明：** [查看中文版 README](./README.zh-CN.md)
 
-A public dashboard for reading Bitcoin market conditions through valuation, sentiment, macro, onchain, and cross-market signals.
+A public research dashboard for reading Bitcoin market conditions through valuation, sentiment, macro, onchain, and cross-market signals.
 
 ## What it does
 
@@ -82,6 +82,25 @@ To make the market easier to interpret, the page maps current conditions into a 
 - **BTC Repair** — Bitcoin stabilizes first while broader participation is still limited
 - **BTC Bull** — stronger trend alignment and healthier market structure
 - **Alt Season** — broader rotation beyond BTC with expanding participation
+
+## How to read this dashboard
+
+A simple reading flow:
+
+### Step 1 — Check the BBI score
+Start with the composite BBI score to get a quick read on whether current conditions are historically more bottom-friendly, neutral, or risk-heavy.
+
+### Step 2 — Identify the regime
+Look at the regime label to understand the broader state of the market: stress, repair, trend, or broad participation.
+
+### Step 3 — Read the drivers
+Use the macro, technical, and fundamental dimensions to see what is supporting the setup and what is still acting as a drag.
+
+### Step 4 — Confirm with market context
+Check US equities, BTC dominance, ETH/BTC, and alt breadth to understand whether participation is narrow, broad, defensive, or risk-on.
+
+### Step 5 — Compare with historical analogs
+Use the analog section to compare the current setup with past market windows that looked structurally similar.
 
 ## Why this page is useful
 
