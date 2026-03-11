@@ -17,15 +17,9 @@ This is the deployment repository for GitHub Pages. It stores the generated stat
 - exported Next.js output
 - API/static data files required by the dashboard
 
-## Source repository
-
-The source code, data refresh pipeline, and deployment workflow live here:
-
-- https://github.com/brls123/BBI-Bitcoin-Index
-
 ## Update flow
 
-The site is updated automatically from the source repository when the deploy workflow runs.
+The site is updated automatically when the deploy workflow runs.
 
 Typical triggers include:
 
@@ -35,4 +29,4 @@ Typical triggers include:
 
 ## Notes
 
-If you are looking for the application source code, scripts, or workflow configuration, go to the source repository above. This repo is mainly for the published Pages output.
+This repo is mainly for the published Pages output.
